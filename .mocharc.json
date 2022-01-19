@@ -1,0 +1,7 @@
+{
+  "require": ["./test/env.js"],
+  "extension": ["ts"],
+  "recursive": true,
+  "fullTrace": true,
+  "timeout": 5000
+}
